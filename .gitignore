@@ -5,7 +5,10 @@
 !**/
 
 !/code/**/*
+
 !/results/binding_sites/**/*.binding-sites.bed
+!/results/variant_impact/**/*
+
 !/pysster_models/**/model.pkl.h5
 
 # Byte-compiled / optimized / DLL files
